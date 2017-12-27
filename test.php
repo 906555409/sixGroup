@@ -1,3 +1,4 @@
-<?php
+<?
+额就
 echo "hello";
 ?>
